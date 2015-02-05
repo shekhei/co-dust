@@ -1,0 +1,34 @@
+{
+  "name": "co-dust",
+  "version": "0.0.1",
+  "description": "dustjs renderer with co support",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/eskygo/co-dust"
+  },
+  "keywords": [
+    "co",
+    "dustjs"
+  ],
+  "author": "Wong Shek Hei Felix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shekhei/co-dust/issues"
+  },
+  "homepage": "https://github.com/shekhei/co-dust",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "co": "^4.1.0",
+    "mocha": "^2.1.0"
+  },
+  "dependencies": {
+    "debug": "^2.1.1",
+    "dustjs-helpers": "^1.5.0",
+    "dustjs-linkedin": "^2.5.1",
+    "extend": "^2.0.0"
+  }
+}
