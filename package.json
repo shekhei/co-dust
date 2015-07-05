@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/eskygo/co-dust"
+    "url": "http://github.com/shekhei/co-dust"
   },
   "keywords": [
     "co",
@@ -27,8 +27,8 @@
   },
   "dependencies": {
     "debug": "^2.1.1",
-    "dustjs-helpers": "^1.5.0",
-    "dustjs-linkedin": "^2.5.1",
+    "dustjs-helpers": "^1.7.1",
+    "dustjs-linkedin": "^2.7.2",
     "extend": "^2.0.0"
   }
 }
