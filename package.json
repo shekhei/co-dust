@@ -1,6 +1,6 @@
 {
   "name": "co-dust",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "dustjs renderer with co support",
   "main": "lib/index.js",
   "scripts": {
