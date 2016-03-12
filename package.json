@@ -25,10 +25,12 @@
     "co": "^4.1.0",
     "mocha": "^2.1.0"
   },
+  "peerDependencies": {
+    "debug": "*",
+    "dustjs-helpers": "*",
+    "dustjs-linkedin": "*"
+  },
   "dependencies": {
-    "debug": "^2.1.1",
-    "dustjs-helpers": "^1.7.1",
-    "dustjs-linkedin": "^2.7.2",
     "extend": "^2.0.0"
   }
 }
